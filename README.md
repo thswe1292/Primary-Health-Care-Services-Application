@@ -25,6 +25,7 @@ Technology Used:
 CommCare: A powerful, open-source mobile data collection platform 
 XML: For form structure and logic.
 APIs: For data integration and interoperability with other health information systems.
+
 Objectives:
 Improve the efficiency and effectiveness of primary health care delivery.
 Enhance primary health care services through systematic tracking and management.
